@@ -1,4 +1,4 @@
-# Terms and Services
+# Terms of Services
 By using a GodzBot, you agree to be bound by these Terms of Service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree to any of these terms, you are prohibited from using or accessing this bot.
 # License
 Permission is granted to use all features of GodzBot for personal, non-commercial transient viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
